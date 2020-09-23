@@ -5,7 +5,11 @@
  Run with the MUSA codewords but SCMA is also OK 
  
  You can change the parameters 
+ 
  N --> Number of antennas in receiver
+ 
  K --> Number of users 
+ 
  M --> QAM constellation size
+ 
  L_c --> Channel length
