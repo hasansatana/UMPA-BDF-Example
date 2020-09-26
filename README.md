@@ -1,4 +1,7 @@
 # UMPA_BDF Example
+
+Author: Hasan Aykut Şatana
+
  Includes .mex files for the UMPA_BDF Receiver and CCM, UCM metric
  
  It is an Ungerboeck Type Message Passing Algorithm for an example NOMA uplink Multiple Access MIMO Channels
