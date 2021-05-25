@@ -1,8 +1,7 @@
  Author: Hasan Aykut Satana / ASELSAN / Middle East Technical University
  Algorithm: Dr. Gökhan Muzaffer Güvensen - Hasan Aykut Satana 
-##############################Introduction##########################################
- This is the main BER/AIR calculation code for an examplary MIMO NOMA
- uplink transmission in long dispersive channels with single carrier modulations. 
+###########Introduction#####
+ This is the main BER/AIR calculation code for an examplary MIMO NOMA uplink transmission in long dispersive channels with single carrier modulations. 
 *You can select the receiver type MMSE-SIC or UMPA-BDF or combination of them.
 *You can also arrange a receiver to obtain single user matched filter performance of the receiver for a given uplink NOMA scenerio
 *Code domain NOMA schemes which are SCMA and MUSA can be selected for the  simulations. 
